@@ -3,11 +3,10 @@
 <p align="center" style="font-size: 120%">I'm a full-stack developer, digital nomad, and funtrepreneur offering full-service application design and development. I wrestle code into digital experiences that empower individuals, companies, and inspiring causes. I have over 15 years of professional experience working solo or with small-to-large agile teams.</p>
 <p align="center" style="font-size: 120%">I also have a passion for self-guided learning, regenerative systems such as permaculture, and blockchain technology. I also publish content regularly here and at BGN.games.</p>
 
-<p align="center">
+
 ![Profile views](https://gpvc.arturio.dev/kevinorin)
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=kevinorin.kevinorin)
-</p>
 
 
 - 🔭 I’m currently working on [Blockchain Games Network](https://bgn.games)
