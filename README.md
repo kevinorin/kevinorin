@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kevinorin&label=Profile%20views&color=0e75b6&style=flat" alt="kevinorin" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kevinorin" alt="kevinorin" /></a> </p>
+
 
 - 🔭 I’m currently working on [Blockchain Games Network](https://bgn.games)
 
@@ -50,7 +50,11 @@
 
 ![Activity Graph](https://activity-graph.herokuapp.com/graph?username=kevinorin&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true)
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=kevinorin&row=10&column=6&margin-h=8&theme=darkhub&count_private=true&margin-w=15&no-frame=true)
+<p align="center"> 
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
+        <img src="https://github-profile-trophy.vercel.app/?username=kevinorin" alt="kevinorin" />
+    </a> 
+</p>
 
 ![Profile views](https://gpvc.arturio.dev/kevinorin)
 
