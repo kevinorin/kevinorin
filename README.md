@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Kevin aka DevKev</h1>
-<h3 align="center">A full-service designer & developer.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kevinorin&label=Profile%20views&color=0e75b6&style=flat" alt="kevinorin" /> </p>
+<p align="center">I'm a full-stack developer, digital nomad, and funtrepreneur offering full-service application design and development. I wrestle code into digital experiences that empower individuals, companies, and inspiring causes. I have over 15 years of professional experience working solo or with small-to-large agile teams.
+
+I also have a passion for self-guided learning, regenerative systems such as permaculture, and blockchain technology. I also publish content regularly here and at BGN.games.</p>
 
 
 
