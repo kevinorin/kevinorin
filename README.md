@@ -1,7 +1,6 @@
-<h1 align="center">Hi, I'm Kevin aka DevKev</h1>
+<h1 align="center">Hi, I'm Kevin</h1>
 
-<p align="center" style="font-size: 120%">I'm a full-stack developer, digital nomad, and funtrepreneur offering full-service application design and development. I wrestle code into digital experiences that empower individuals, companies, and inspiring causes. I have over 15 years of professional experience working solo or with small-to-large agile teams.</p>
-<p align="center" style="font-size: 120%">I also have a passion for self-guided learning, web3, regenerative systems such as permaculture, and blockchain technology. I publish content regularly @ Super Distros + Blockchain Games Network.</p>
+<p align="center" style="font-size: 120%">I also have a passion for self-guided learning, web3, regenerative systems such as permaculture, and crafting digital experiences.</p>
 
 
 ![Profile views](https://gpvc.arturio.dev/kevinorin)
@@ -9,23 +8,20 @@
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=kevinorin.kevinorin)
 
 
-- 🔭 I’m currently working on [Blockchain Games Network](https://bgn.games)
+- 🔭 I’m currently working on [GEXP](https://gexp.live) and other fun stuff in private repos.
 
 - 🌱 I’m currently learning **Sanity and Strapi CMS**
 
-- 👯 I’m looking to collaborate on **React.js, Next.js, Web3 and cause-based projects**
+- 👯 I’m looking to collaborate on **React.js, Next.js, TailwindCSS, Web3 and cause-based projects**
 
-- 🤝 I’m looking for help with [Creating a DAO for BGN](https://bgn.games)
+- 🤝 I’m looking for my dream job.
 
-- 👨‍💻 Most of my projects are available at [https://superdistros.com](https://superdistros.com)
-
-- 📄 Know about my experiences [https://linkedin.com/in/kevinorin](https://linkedin.com/in/kevinorin)
+- 📄 My LinkedIn profile [https://linkedin.com/in/kevinorin](https://linkedin.com/in/kevinorin)
 
 - 💬 Ask me about **almost anything**
 
-- 📫 How to reach me **kevinw@superdistros.com**
+- 📫 How to reach me **devkev@manifestfts.com**
 
-- ⚡ Fun fact I was born in Georgetown, Guyana
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
