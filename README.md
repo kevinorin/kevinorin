@@ -44,8 +44,6 @@
 
 ![GitHub Streaks](https://github-readme-streak-stats.herokuapp.com/?user=kevinorin&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevinorin&langs_count=10&layout=compact&theme=radical)
-
 ![Activity Graph](https://activity-graph.herokuapp.com/graph?username=kevinorin&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true)
 
 <p align="center"> 
