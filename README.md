@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Kevin</h1>
 
-<p align="center" style="font-size: 120%">I also have a passion for self-guided learning, web3, regenerative systems such as permaculture, and crafting digital experiences.</p>
+<p align="center" style="font-size: 120%">I have a passion for self-guided learning, web3, regenerative systems such as permaculture, and crafting digital experiences.</p>
 
 
 ![Profile views](https://gpvc.arturio.dev/kevinorin)
@@ -8,17 +8,7 @@
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=kevinorin.kevinorin)
 
 
-- 🔭 I’m currently working on [GEXP](https://gexp.live) and other fun stuff in private repos.
-
-- 🌱 I’m currently learning **Sanity and Strapi CMS**
-
-- 👯 I’m looking to collaborate on **React.js, Next.js, TailwindCSS, Web3 and cause-based projects**
-
-- 🤝 I’m looking for my dream job.
-
 - 📄 My LinkedIn profile [https://linkedin.com/in/kevinorin](https://linkedin.com/in/kevinorin)
-
-- 💬 Ask me about **almost anything**
 
 - 📫 How to reach me **devkev@manifestfts.com**
 
