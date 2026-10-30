@@ -1,45 +1,25 @@
-<h1 align="center">Hi, I'm Kevin</h1>
+# Kevin Orin
 
-<p align="center" style="font-size: 120%">I have a passion for self-guided learning, web3, regenerative systems such as permaculture, and crafting digital experiences.</p>
+Product engineer and founder at **[Manifest FTS](https://manifestfts.com)**. I partner with founders, product teams, and growing businesses to design, engineer, and deploy high-performance software.
 
+---
 
-![Profile views](https://gpvc.arturio.dev/kevinorin)
+### Focus & Core Stack
+* **Web Applications:** Next.js, React, TypeScript, Tailwind CSS
+* **Mobile Systems:** React Native, Expo (iOS & Android)
+* **Architecture & Infrastructure:** Cloudflare Edge/Workers, Backblaze B2, Sanity CMS
+* **AI & Discovery:** GEO/AEO structured entity schemas, LLM agent indexing, automated workflows
 
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=kevinorin.kevinorin)
+---
 
+### Work & Initiatives
+* **[Manifest FTS](https://manifestfts.com):** Independent design and product engineering studio.
+* **Signal Engine:** Turnkey AI search visibility, schema architecture, and crawler readiness.
+* **Jongo:** Production asset management and offsite cloud media workflows.
 
-- 📄 My LinkedIn profile [https://linkedin.com/in/kevinorin](https://linkedin.com/in/kevinorin)
+---
 
-- 📫 How to reach me **devkev@manifestfts.com**
-
-
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-    <a href="https://twitter.com/kevinorin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kevinorin" height="30" width="40" /></a>
-    <a href="https://linkedin.com/in/kevinorin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kevinorin" height="30" width="40" /></a>
-    <a href="https://stackoverflow.com/users/875390" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="875390" height="30" width="40" /></a>
-    <a href="https://www.youtube.com/channel/ucspve_u90doi1ox2tpn-slq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucspve_u90doi1ox2tpn-slq" height="30" width="40" /></a>
-    <a href="https://discord.gg/ZtqSUmdFMJ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/ZtqSUmdFMJ" height="30" width="40" /></a>
-</p><br>
-
-## Support
-<p align="center">
-    <a href="https://ko-fi.com/superdistros"> <img align="center" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="superdistros" /></a></p><br>
-
-## 📈 Stats
-
-<div align="center">
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=kevinorin&show_icons=true&include_all_commits=true&count_private=true&theme=radical)
-
-![GitHub Streaks](https://github-readme-streak-stats.herokuapp.com/?user=kevinorin&theme=radical)
-
-![Activity Graph](https://activity-graph.herokuapp.com/graph?username=kevinorin&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true)
-
-<p align="center"> 
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=kevinorin" alt="kevinorin" />
-    </a> 
-</p>
-
-
+### Inquiries & Connection
+* **Explore Work & Rates:** [manifestfts.com](https://manifestfts.com)
+* **Start a Project Brief:** [manifestfts.com/pricing](https://manifestfts.com/pricing)
+* **LinkedIn:** [linkedin.com/in/kevinorin](https://linkedin.com/in/kevinorin)
